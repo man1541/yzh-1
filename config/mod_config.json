@@ -1,0 +1,42 @@
+{
+  "global": {
+    "github_user": "man1541",
+    "github_repo": "yzh-1",
+    "github_branch": "main",
+    "download_dir": "D:\\",
+    "log_level": "DEBUG",
+    "silent": true,
+    "download_timeout": 180,
+    "mirror_cooldown": 600,
+    "ghproxy_list": [
+      "https://gh-proxy.com/",
+      "https://ghproxy.net/",
+      "https://ghproxy.homeboyc.cn/",
+      "https://github.akams.cn/",
+      "https://gh-proxy.org/"
+    ],
+    "repo_path": "mod",
+    "version": 3,
+    "check_seconds": 300,
+    "download_timeout_large": 600,
+    "download_timeout_extreme": 1800,
+    "large_file_threshold_mb": 20,
+    "extreme_file_threshold_mb": 200,
+    "parallel_chunk_threshold_mb": 100,
+    "parallel_chunks": 4
+  },
+  "mods": [
+    {
+      "prefix": "server_MoreEnchantments",
+      "remote_md5": "a3bc31dcf69f43c13cefeccdcd407df2"
+    },
+    {
+      "prefix": "server_Monitoring",
+      "remote_md5": "63b274fabcf51affe338f45c7c8fdff2"
+    },
+    {
+      "prefix": "IMBlocker-5.5.4-fabric+1.17-1.21.8",
+      "remote_md5": "54ab83c4180d4f93f912fec464e06edc"
+    }
+  ]
+}
