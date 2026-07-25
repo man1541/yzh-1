@@ -3,7 +3,7 @@
     "github_user": "man1541",
     "github_repo": "yzh-1",
     "github_branch": "main",
-    "download_dir": "D:\\",
+    "download_dir": ".",
     "log_level": "DEBUG",
     "silent": true,
     "download_timeout": 180,
